@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['insert_5fmany',['insert_many',['../classmongo_1_1driver_1_1collection.html#a215dca5d50eb9c32db0b3b26efbf9860',1,'mongo::driver::collection::insert_many(const container_type &amp;container, const options::insert &amp;options=options::insert())'],['../classmongo_1_1driver_1_1collection.html#a6a65bb4530ff14b2272cafedcc09a731',1,'mongo::driver::collection::insert_many(document_view_iterator_type begin, document_view_iterator_type end, const options::insert &amp;options=options::insert())']]],
+  ['insert_5fone',['insert_one',['../classmongo_1_1driver_1_1collection.html#a8076bc398f40b0fbaddf131a406efbf8',1,'mongo::driver::collection::insert_one()'],['../classmongo_1_1driver_1_1model_1_1insert__one.html#ac79c7b15a618bb4d5344f224e8be357a',1,'mongo::driver::model::insert_one::insert_one()']]],
+  ['inserted_5fcount',['inserted_count',['../classmongo_1_1driver_1_1result_1_1bulk__write.html#a166a3413a62b15d7fdd0924bcdb1c276',1,'mongo::driver::result::bulk_write::inserted_count()'],['../classmongo_1_1driver_1_1result_1_1insert__many.html#a550895ded55919ebd8ae3c6327b79a82',1,'mongo::driver::result::insert_many::inserted_count()']]],
+  ['inserted_5fid',['inserted_id',['../classmongo_1_1driver_1_1result_1_1insert__one.html#a26fea91a194e245e7f001756f8d841a0',1,'mongo::driver::result::insert_one']]],
+  ['inserted_5fids',['inserted_ids',['../classmongo_1_1driver_1_1result_1_1bulk__write.html#a0ba23b955abcc3d2faa21df8868dc271',1,'mongo::driver::result::bulk_write::inserted_ids()'],['../classmongo_1_1driver_1_1result_1_1insert__many.html#a66ffb49a1d6aa2f5bc0a6997d31eab38',1,'mongo::driver::result::insert_many::inserted_ids()']]],
+  ['instance',['instance',['../classmongo_1_1driver_1_1instance.html#ad26a5953802192bdd98aabf91d92f63c',1,'mongo::driver::instance::instance()'],['../classmongo_1_1driver_1_1instance.html#a004edd1600d76ad77e6e535d1697eff5',1,'mongo::driver::instance::instance(instance &amp;&amp;) noexcept']]]
+];
